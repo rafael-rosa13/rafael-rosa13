@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou o Rafael Rosa! 👋
 
-<!--
-**rafael-rosa13/rafael-rosa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Objetivo:** Analista DevOps / Cloud Infrastructure  
+🛠️ **Foco atual:** Infraestrutura como Código (IaC), Cloud Computing (AWS/Azure), Automação e Observabilidade.
 
-Here are some ideas to get you started:
+Profissional de TI com experiência em **Infraestrutura, Redes e Monitoramento (NOC)**, aplicando práticas da cultura **DevOps** para automatizar o provisionamento de ambientes, garantir alta disponibilidade e melhorar a observabilidade de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Stack Tecnológica & Ferramentas
+
+* **Cloud Computing:** AWS (EC2, VPC, IAM, S3) • Microsoft Azure • Oracle Cloud (OCI)
+* **IaC & Automação:** Terraform • Ansible
+* **Containers & Orquestração:** Docker • Azure Container Instances
+* **Sistemas Operacionais:** Linux (Administração, Troubleshooting, Shell Script)
+* **Observabilidade:** Zabbix • Grafana • Prometheus
+* **Redes & Segurança:** Firewalls • VPN • DNS • VLANs • NAT • TCP/IP
+* **Versionamento & CI/CD:** Git • GitHub • GitHub Actions
+
+---
+
+### 🏆 Certificações
+
+* ☁️ **Oracle Cloud Infrastructure (OCI) Architect**
+* ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)**
+* 🐧 **LPI Linux Essentials**
+* 🌐 **Cisco Certified Support Technician (CCST) Networking**
+* 📋 **ITIL 4 Foundation**
+* 📚 *Em andamento:* AWS Certified Cloud Practitioner 
